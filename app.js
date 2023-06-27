@@ -1,4 +1,4 @@
-// API => https://icanhazdadjoke.com/ 
+ 
 
 const jokes = document.getElementById('jokes')
 const btn = document.getElementById('jokesbtn')
